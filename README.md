@@ -1,4 +1,4 @@
-This article demonstrates how to create an automated system 
+This code demonstrates how to create an automated system 
 that monitors Apple's stock prices in real-time using AWS Lambda, 
 CloudWatch, and RDS. 
 The system uses a Python script to fetch the latest stock prices from Yahoo Finance 
