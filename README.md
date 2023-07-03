@@ -7,3 +7,6 @@ AWS Lambda runs the script, and CloudWatch is utilized to schedule the script to
 This serverless architecture is cost-effective and scales automatically, 
 making it an excellent resource for traders, investors, and data analysts. 
 The principles can also be adapted for monitoring other stocks or conducting more complex data analysis. 
+
+[You can access the full article here](https://medium.com/@s.sadathosseini/enhancing-real-time-stock-price-monitoring-with-aws-sns-email-notifications-2d99633243c2)
+
