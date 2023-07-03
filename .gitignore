@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
 # C extensions
 *.so
+
+main_lambda_function.py
 
 # Distribution / packaging
 .Python
@@ -12,7 +15,7 @@ build/
 develop-eggs/
 dist/
 downloads/
-eggs/
+eggs/ 
 .eggs/
 lib/
 lib64/
